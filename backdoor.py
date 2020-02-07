@@ -10,7 +10,7 @@ import base64
 from email import encoders
 from base64 import b64decode
 from threading import Thread
-#from multiprocessing import Process
+#from multiprocessing import Process 
 from smtplib import SMTP
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEBase import MIMEBase
